@@ -1,2 +1,2 @@
 # intro-to-cs-
-projects submited.
+projects submitted.
